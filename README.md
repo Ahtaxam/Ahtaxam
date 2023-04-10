@@ -8,12 +8,17 @@
 
 
 # 💫 About Me:
-Looking forward to have a successful professional career as a Software Engineer
-Ask me about Web , JavaScript<br><br>How to reach me ahtashamali2727@gmail.com<br><br>Fun fact I am Funny
+A Software Developer, with excellent problem solving skills, passionate about development, talks about Research and Innovation in Modern Technology.
 
 <ul>
-  <li>f</li>
+  &#11088 Looking forward to have a successful professional career as a Software Engineer<br/>
+  &#10192 Ask me about Web , JavaScript<br/>
+  &#11030 How to reach me ahtashamali2727@gmail.com<br/>
+  &#9670 Currently working on <b>Full Stack Development!</b><br/>
+  &#128640 Love to talk about <b>Research and Innovation!</b><br/>
+  &#11088 Passionate about<b> Competitive Coding</b>
 </ul>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahtashamali) 
